@@ -1,4 +1,4 @@
-## 请仔细阅读 [WIKI](https://github.com/EvineDeng/jd-base/wiki) 和各文件注释，95%的问题都能找到答案,
+## 请仔细阅读 [WIKI](https://github.com/labulac/jd-base/wiki) 和各文件注释，95%的问题都能找到答案,
 ## EvineDeng大佬 EvineDeng/jd-base库备份，不要fORk
 
 ## 如有二次使用，请注明来源
